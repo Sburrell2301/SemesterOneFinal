@@ -156,7 +156,7 @@
                                         <nil key="highlightedColor"/>
                                     </label>
                                 </subviews>
-                                <color key="backgroundColor" cocoaTouchSystemColor="scrollViewTexturedBackgroundColor"/>
+                                <color key="backgroundColor" cocoaTouchSystemColor="darkTextColor"/>
                                 <gestureRecognizers/>
                                 <constraints>
                                     <constraint firstItem="Qg4-LK-EuK" firstAttribute="leading" secondItem="FPc-ct-H7m" secondAttribute="leading" id="0uy-dH-eqE"/>
@@ -233,7 +233,7 @@
                                         <nil key="highlightedColor"/>
                                     </label>
                                 </subviews>
-                                <color key="backgroundColor" red="0.14238458871841431" green="0.32297021150588989" blue="0.16941845417022705" alpha="0.49803921579999999" colorSpace="custom" customColorSpace="sRGB"/>
+                                <color key="backgroundColor" white="0.0" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
                                 <gestureRecognizers/>
                                 <constraints>
                                     <constraint firstItem="Cy9-b3-2sr" firstAttribute="top" secondItem="v3C-Oh-0h6" secondAttribute="top" constant="30" id="6y0-wH-705"/>
